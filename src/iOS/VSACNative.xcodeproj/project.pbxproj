@@ -92,7 +92,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
-				ORGANIZATIONNAME = "kevin Ford";
+				ORGANIZATIONNAME = "Jihye Eom";
 				TargetAttributes = {
 					08E4EDA020017C4C005CE141 = {
 						CreatedOnToolsVersion = 9.2;
@@ -262,7 +262,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.wisdeom.VSACnative;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "adcad309-9147-4a7a-af1c-6e63f6b5dddc";
+				PROVISIONING_PROFILE = "1974dd71-da11-4db2-b09d-2a8d3b8aeaa4";
 				PROVISIONING_PROFILE_SPECIFIER = VSACNative;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -280,7 +280,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.wisdeom.VSACnative;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "adcad309-9147-4a7a-af1c-6e63f6b5dddc";
+				PROVISIONING_PROFILE = "1974dd71-da11-4db2-b09d-2a8d3b8aeaa4";
 				PROVISIONING_PROFILE_SPECIFIER = VSACNative;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
